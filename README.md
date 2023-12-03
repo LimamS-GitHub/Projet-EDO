@@ -4,4 +4,4 @@ Durant ma première année en mathématiques appliquées, on a réalisé un proj
 - Pendule couplé
 - Double pendule
 
-Dans le rapport on a choisi d'utiliser la méthode de Runge-Kutta d’ordre 4 clairement expliqué dans le rapport.
+Dans le rapport (écrit en LATEX) on a choisi d'utiliser la méthode de Runge-Kutta d’ordre 4 clairement expliqué dans le rapport.
